@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745644825371",
+    "project_id": "dedicas-740c0",
+    "storage_bucket": "dedicas-740c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745644825371:android:462a6412c9b024d1afd1be",
+        "android_client_info": {
+          "package_name": "com.example.dedicas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745644825371-uck3uqulfkcj9801fcuq3kfr56bngi7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dedicas",
+            "certificate_hash": "6d6fe620c7781b3bad83b8ce3bea478dab244f76"
+          }
+        },
+        {
+          "client_id": "745644825371-4vl7o5aebrc4gkhhq3jgfvkekum4fi35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjvfAEqdGplqHnd1ZtxHqqxwhKj57KYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745644825371-4vl7o5aebrc4gkhhq3jgfvkekum4fi35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

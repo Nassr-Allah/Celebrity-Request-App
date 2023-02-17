@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Dedicas</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+        dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+        sunt in culpa qui officia deserunt mollit anim id est laborum </string>
+    <string name="request_a_gift_from">Connect with your favourite celebrity</string>
+    <string name="get_started">Get Started</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="dont_have_account">"Don't have an account? Let's"</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="wilaya">Wilaya</string>
+    <string name="next">Next</string>
+    <string name="new_account">New Account</string>
+    <string name="create_new_account">Create a new account</string>
+    <string name="otp">OTP</string>
+    <string name="confirm_your_phone">Confirm your phone number</string>
+    <string name="code_not_received">Code not received?</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="last_step">Last Step</string>
+    <string name="input_your_ccp">Input your ccp number</string>
+    <string name="celebrities">Celebrities</string>
+    <string name="browse">Browse</string>
+    <string name="celebrity_profile">Celebrity Profile</string>
+    <string name="work_days">Work Days</string>
+    <string name="work_hours">Work Hours</string>
+    <string name="to">to</string>
+    <string name="price">Price</string>
+    <string name="send_request">Send Request</string>
+    <string name="sent">Sent</string>
+    <string name="pending">Pending</string>
+    <string name="accepted">Accepted</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="protect_your_privacy">Protect your privacy</string>
+    <string name="log_out">Log out</string>
+    <string name="language">Language</string>
+    <string name="requests">Requests</string>
+    <string name="pay">Pay</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="refused">Refused</string>
+    <string name="payment_rejected">Payment Rejected</string>
+    <string name="on_going">On going</string>
+    <string name="all">All</string>
+    <string name="canceled">Canceled</string>
+    <string name="offer_details">Offer Details</string>
+    <string name="describe_your_offer">Describe your offer</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="send">Send</string>
+    <string name="receipt">Receipt</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="payment_sent">Payment Sent Successfully!</string>
+    <string name="request_sent">Request Sent Successfully!</string>
+    <string name="offer">Offer</string>
+    <string name="payment">Payment</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+</resources>

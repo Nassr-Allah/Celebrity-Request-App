@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="screen_title">44.44sp</dimen>
+    <dimen name="title_large">27.78sp</dimen>
+    <dimen name="body_large">18.06sp</dimen>
+    <dimen name="label_small">13.89sp</dimen>
+    <dimen name="body_medium">16.67sp</dimen>
+    <dimen name="body_small">13.89sp</dimen>
+    <dimen name="title_small">19.44sp</dimen>
+
+    <dimen name="back_btn_size">20.83dp</dimen>
+    <dimen name="drop_down_menu_btn_size">29.17dp</dimen>
+    <dimen name="next_arrow_size">29.17dp</dimen>
+    <dimen name="sms_code_field_width">50dp</dimen>
+    <dimen name="small_btn_width">50dp</dimen>
+    <dimen name="profile_pic_size">63.89dp</dimen>
+    <dimen name="celeb_profile_pic_size">145.83dp</dimen>
+    <dimen name="stat_box_width">125dp</dimen>
+    <dimen name="chat_pic_size">41.67dp</dimen>
+    <dimen name="upload_icon_size">111.11dp</dimen>
+    <dimen name="ten_spacer">13.89dp</dimen>
+    <dimen name="twenty_spacer">27.78dp</dimen>
+    <dimen name="text_field_height">76.39dp</dimen>
+    <dimen name="bottom_bar_height">76.39dp</dimen>
+</resources>
